@@ -1,4 +1,4 @@
-package com.mouritech.springbootsecuritywithroles.entity;
+	package com.mouritech.springbootsecuritywithroles.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
